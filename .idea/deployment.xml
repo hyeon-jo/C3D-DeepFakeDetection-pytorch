@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="hyeon@202.30.29.234:22">
+    <serverData>
+      <paths name="hyeon@202.30.29.224:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hyeon/deepfake-pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hyeon@202.30.29.224:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hyeon/deepfake-pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hyeon@202.30.29.234:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hyeon/deepfake" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hyeon@202.30.29.234:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hyeon/fs2n-pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
